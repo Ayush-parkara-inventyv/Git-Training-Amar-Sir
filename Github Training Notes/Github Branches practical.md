@@ -264,4 +264,12 @@ git log --all --graph
 
 ![](https://i.imgur.com/FtdRczF.png)
 
+
+Practice branching and commands
+
+
+![image](https://github.com/user-attachments/assets/0261f00c-09a8-4b19-b40a-d336605707ac)
+
+![image](https://github.com/user-attachments/assets/7d372d2d-ef7e-4857-8938-b7416379f3d0)
+
 	
