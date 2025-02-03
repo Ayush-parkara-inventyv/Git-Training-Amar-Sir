@@ -120,7 +120,7 @@ git log --all --graph
 
 ```bash
 #adding repo remote to git
-git remote add origin https://github.com/ayush..parkara.inventyv/website-flow.git
+git remote add origin https://github.com/ayush.parkara.inventyv/website-flow.git
 
 #switching to main branch
 git checkout main
